@@ -1,3 +1,13 @@
-Jeanette
-Johannesburg 
-Data Engineering
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
